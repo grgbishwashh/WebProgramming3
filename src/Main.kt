@@ -14,7 +14,14 @@ fun main() {
     val gender = readln()
     println("Your gender is $gender")
 
+    println("Enter your course")
+    val course = readln()
+    println("Your gender is $course")
+
+
+
 }
+
 
 
 
